@@ -5,6 +5,6 @@
 		int a=1;
 		int b=8;
 		int sum=a+b;
-		printf(sum);
+		printf("%d", &sum);
 	}
 }

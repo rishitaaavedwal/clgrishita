@@ -1,4 +1,5 @@
 #include<stdio.h>
+using namescape std;
 {
 	void main()
 	{

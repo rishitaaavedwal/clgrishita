@@ -3,9 +3,9 @@ void swap(int &k, int &j) //declaration of variable
 {
 	//some code in here
 }
-int sum(int &i, int &j)
+int swap(int &i, int &j) //declaration of swap function
 {
-	return i+j;
+	return i+j; //returning the sum
 }
 int main()
 {

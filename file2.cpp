@@ -1,6 +1,6 @@
 #include<stdio.h>
 using namespace std;
-void main()
+void main() //declaring main function
 {
 	int n;
 	printf("enter 'n' value: ");

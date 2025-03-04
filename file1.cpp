@@ -1,9 +1,9 @@
 #include<stdio.h>
-void swap(int &k, int &j) //declaration of variable
+void swap(int &k, int &j) //declaration of main function
 {
 	//some code in here
 }
-int sum(int &i, int &j)
+int sum(int &i, int &j) //declaration of sum function
 {
 	return i+j;
 }

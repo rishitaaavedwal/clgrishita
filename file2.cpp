@@ -2,7 +2,7 @@
 using namespace std;
 void main() //declaring main function
 {
-	int n;
+	int n; //declaring variable to store value
 	printf("enter 'n' value: ");
 	scanf("%d", &n);
 	for (int i=1; i<=n; i++)

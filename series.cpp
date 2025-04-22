@@ -1,9 +1,9 @@
-aub bengaluru
-courses available
-btech in cse
-btech in es and vlsi
-btech in aiml
-mba
-bba
-llb
-facilities-hostem,canteen,bakery,arena
+#include<stdio.h>
+int main()
+{
+	for (int i=0; i<=10; i++)
+	{
+		printf("%d",i);
+	}
+	return 0;
+}

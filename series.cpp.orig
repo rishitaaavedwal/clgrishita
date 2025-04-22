@@ -1,13 +1,14 @@
 #include<stdio.h>
 int main()
 {
+<<<<<<< HEAD
 	for (int i=0; i<=10; i++)
 	{
 		if (i%2==0)
 		{
 			printf("%d",i);
 		}
-
+=======
 	int i=1;
 	while(i<=10)
 	{
@@ -16,6 +17,7 @@ int main()
 			printf("%d",i);
 		}
 		i++;
+>>>>>>> test
 	}
 	return 0;
 }

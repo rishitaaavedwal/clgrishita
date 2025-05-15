@@ -1,8 +1,9 @@
-#include<stdio.h>
-void main()
+#include <iostream>
+using namespace std; 
+int main()
 {
 	int a=5;
 	int b=7;
-	int diff=a-b;
-	printf(diff);
+	int sum = a + b; 
+	cout << "sum: " << sum << endl;
 }
